@@ -1,0 +1,14 @@
+{
+  "mnemonic": "/app/workdir/mnemonic.txt",
+  "network": "https://rpc-evm-sidechain.xrpl.org",
+  "beneficiary": "0x0d0e2d28e324c4d7cce09fded31944191e22c48e",
+  "port": "80",
+  "entryPoint": "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789",
+  "minBalance": "0.001",
+  "minUnstakeDelay": 0,
+  "gasFactor": "1",
+  "minStake": "0",
+  "maxBundleGas": 5e6,
+  "autoBundleInterval": 3,
+  "autoBundleMempoolSize": 1
+}
